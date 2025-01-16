@@ -1,7 +1,7 @@
 # auditory_nordic
 
-This repository accompanies a high-resolution 7T auditory dataset that is available on OPENNEURO. 
-The data and code that can be found here are used for the following article (https://www.biorxiv.org/content/10.1101/2024.01.24.577070v1).
+This repository accompanies a high-resolution 7T auditory dataset that is available on OPENNEURO: doi:10.18112/openneuro.ds004928.v1.0.0.
+The data and code accompanies the manuscript now published in Imaging Neuroscience: https://doi.org/10.1162/imag_a_00270.
 
 Note that the codes are written in Matlab and are rather poorly curated and specific for the data format we have used. We are working on better and more comprehensible versions of the code. 
 
